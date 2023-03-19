@@ -1,6 +1,6 @@
 # Data Reading Project
 
-A simple dictionary based on a linked list to store information from a dataset about the City of Melbourne part of COMP20003 Project 1 (2022 Semester 2). 
+A simple dictionary based on a linked list to store information from a dataset about the City of Melbourne part of University Of Melbourne, COMP20003 Project 1 (2022 Semester 2). 
 
 
 
